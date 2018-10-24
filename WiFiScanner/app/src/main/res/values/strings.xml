@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WiFi Scanner</string>
+    <string name="enter_your_student_id">Enter your Student ID</string>
+    <string name="scan">SCAN</string>
+</resources>

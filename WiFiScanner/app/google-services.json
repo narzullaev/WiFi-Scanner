@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498612335945",
+    "firebase_url": "https://wifiscanner-3d498.firebaseio.com",
+    "project_id": "wifiscanner-3d498",
+    "storage_bucket": "wifiscanner-3d498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498612335945:android:b5203f7354f05976",
+        "android_client_info": {
+          "package_name": "com.example.sardor.wifiscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498612335945-i4ki1mm2p4uhmemp3np1d9prqthncfkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sardor.wifiscanner",
+            "certificate_hash": "4a4854ddcd02e9f8f6db28d2025f1a1399d0e480"
+          }
+        },
+        {
+          "client_id": "498612335945-4okpihg24tai74bce00p808j2u11p3km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAohEQl5-cJudTzHUXf9F0DKs6e0LY3TXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498612335945-4okpihg24tai74bce00p808j2u11p3km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
