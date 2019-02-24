@@ -1,8 +1,8 @@
 {
   "project_info": {
     "project_number": "498612335945",
-    "firebase_url": "https://wifiscanner-3d498.firebaseio.com",
-    "project_id": "wifiscanner-3d498",
+    "firebase_url": "your firebase URL here",
+    "project_id": "project ID",
     "storage_bucket": "wifiscanner-3d498.appspot.com"
   },
   "client": [
@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAohEQl5-cJudTzHUXf9F0DKs6e0LY3TXk"
+          "current_key": "Your Firebase Key Here"
         }
       ],
       "services": {
