@@ -8,5 +8,9 @@
     <color name="colorRed">#f70000</color>
     <color name="darkBlue">#060230</color>
     <color name="cyan">#13ebf7</color>
+    <color name="colorBlue">#0651cc</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="indigo_700">#303f9f</color>
+    <color name="cyan_500">#00bcd4</color>
 
 </resources>

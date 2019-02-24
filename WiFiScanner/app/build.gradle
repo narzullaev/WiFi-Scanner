@@ -5,7 +5,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.example.sardor.wifiscanner"
-        minSdkVersion 20
+        minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -20,6 +20,7 @@ android {
 
     repositories {
         maven { url "https://jitpack.io" }
+        jcenter()
     }
 }
 
@@ -36,6 +37,29 @@ dependencies {
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation 'com.google.firebase:firebase-auth:16.0.4'
-    implementation 'com.google.firebase:firebase-database:16.0.3'
+
+    // Firebase
+    implementation 'com.google.firebase:firebase-core:16.0.7'
+    implementation 'com.google.firebase:firebase-auth:16.1.0'
+    implementation 'com.google.firebase:firebase-database:16.0.6'
+    // Firebase UI auth
+    implementation 'com.firebaseui:firebase-ui-auth:4.3.1'
+    implementation 'com.victor:lib:1.0.4'
+
+    // Material Edit Text
+    implementation 'com.rengwuxian.materialedittext:library:2.1.4'
+
+    // Circle Image view to display images in circle
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
+
+    // Spinner to display loading functionality
+    implementation 'com.github.ganfra:material-spinner:2.0.0'
+
+    // spots dialog
+    implementation 'com.github.d-max:spots-dialog:1.1@aar'
+
+    // swipe back activity
+    implementation 'com.r0adkll:slidableactivity:2.0.6'
+    implementation 'com.github.liuguangqiang.swipeback:library:1.0.2@aar'
+
 }
