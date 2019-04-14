@@ -5,4 +5,20 @@
     <string name="logout">Logout</string>
     <string name="matric">Matric</string>
     <string name="name">Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="password">Password</string>
+    <string name="absent">Absent</string>
+    <string name="present">Present</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="skj1013_java_lecture">SKJ1013 JAVA LECTURE</string>
+    <string name="skj1013_java_labs">SKJ1013 JAVA LABS</string>
+    <string name="skj1043_dec_labs">SKJ1043 DEC LABS</string>
+    <string name="skj1033_dec_lecture">SKJ1033 DEC LECTURE</string>
+    <string name="check_in">check in</string>
+    <string name="spinner_prompt">Lectures</string>
 </resources>
